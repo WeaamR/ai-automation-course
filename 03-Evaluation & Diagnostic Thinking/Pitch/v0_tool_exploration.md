@@ -1,8 +1,8 @@
 #### Prepared by:
-##### Weaam Abdalaal
-##### Lilian Abu-Ramadan
-##### Dana Abu-Hassira
-##### Dana Shikha
+- **Weaam Abdalaal**
+- **Lilian Abu-Ramadan**
+- **Dana Abu-Hassira**
+- **Dana Shikha**
 # استكشاف أداة v0 — Tool Exploration
 
 **النشاط:** Research Pairs — U3: Prove It Works  
